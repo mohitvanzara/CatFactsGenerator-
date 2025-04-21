@@ -18,10 +18,6 @@ A simple and elegant web application that displays random cat facts using the Ca
 - Axios for API requests
 - Cat Facts Ninja API
 
-## 📸 Screenshot
-
-![App Screenshot](#) <!-- Add your application screenshot here -->
-
 ## ⚙️ Installation
 
 1. Clone the repository:
